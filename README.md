@@ -12,18 +12,18 @@
 
 <p align="left">
   <a>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=650&lines=Future+Data/AI+Engineer;2nd+Year+Preparatory+Student+@+CY+Tech;Passionate+about+Data+and+AI" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=650&lines=Future+Data/AI+Engineer;2nd+Year+Preparatory+Student+@+CY+Tech;PASSIONATE+ABOUT+DATA+AND+AI+!" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="left">
   <a href="https://deltahmed.fr">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=550&lines=Click+here+to+see+my+resume" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=550&lines=CLICK+TO+SEE+MY+RESUME+!" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=350&lines=About+Me&color=FF0000" alt="About Me" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=350&lines=About+Me&color=FF0000" alt="ABOUT ME" />
 </p>
 
 - 🔭 **Currently:** 2nd year of Preparatory cycle (Applied Mathematics for DATA/AI) at CY Tech.
