@@ -34,11 +34,15 @@
   <img src="https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github" alt="GitHub" />&nbsp;
 </p>
 
+### 📂 &nbsp;Projets Phares
 
+* 💧 **[C-Wildwater](https://github.com/TON_USERNAME/NOM_DU_REPO)** : Conception d'un système de traitement et nettoyage de datasets volumineux (500 Mo)[cite: 35]. Implémentation de structures de données AVL pour l'optimisation algorithmique[cite: 35]. Développement de scripts Shell pour le calcul automatisé d'indicateurs statistiques et génération de graphiques via GnuPlot[cite: 36].
+* 🗃️ **[Refuge ChenYI-Tech](https://github.com/TON_USERNAME/NOM_DU_REPO)** : Application de gestion développée en C avec stockage structuré en fichiers CSV[cite: 31, 32]. Implémentation de fonctions de vérification, de nettoyage et de recherche multicritères pour assurer la fiabilité des données[cite: 33].
+* 🌐 **[Restaurant Flagrant Délice](https://github.com/TON_USERNAME/NOM_DU_REPO)** : Architecture Fullstack avec développement Back-end (PHP/Java) pour la gestion des requêtes complexes[cite: 38, 39]. Structuration des pages (HTML/CSS) pour garantir une expérience utilisateur fluide[cite: 39].
 
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
   <a href="mailto:a.eish@outlook.fr"><img src="https://img.shields.io/badge/-Mail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-  <a href="[https://www.linkedin.com/in/ahmed-eish-3b1a2b1b0/](https://www.linkedin.com/in/ahmed-eish/)"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ahmed-eish-3b1a2b1b0/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
