@@ -1,22 +1,32 @@
-<h1 align="center">👋 Hello World! This is Ahmed👋 </h1>
+<h1 align="center">👋 Hello World! This is Ahmed 👋 </h1>
+
+<p align="center">
+  <a href="mailto:a.eish@outlook.fr"><img src="https://img.shields.io/badge/-Mail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ahmed-eish-3b1a2b1b0/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/amdvii"><img alt="GitHub followers" src="https://img.shields.io/github/followers/amdvii?style=for-the-badge&logo=github&color=181717"></a>
+</p>
+
+<br>
 
 <p align="left">
   <a>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=550&lines=Future+Ingénieur+en+Data/IA;Etudiant+Ingenieur+@+CY+Tech;Passionné+par+la+Data+et+l'IA" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=650&lines=Future+Data/AI+Engineer;Engineering+Student+@+CY+Tech;Passionate+about+Data+and+AI" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="left">
   <a href="https://deltahmed.fr">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=550&lines=Cliquez+pour+voir+mon+CV" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=550&lines=Click+here+to+see+my+resume" alt="Typing SVG" />
   </a>
 </p>
 
-- 🔭 Actuellement : En cycle Ingénieur (Mathématiques appliquées à la DATA/IA) à CY Tech.
-- 🌱 En recherche : D'un apprentissage en Data/IA pour la rentrée 2026 (Rythme 2s/2s).
-- 👨‍💻 Projets récents : Développement C (Algorithmique AVL), analyse de données Python, et architecture Fullstack.
-- 💬 Centres d'intérêt : Sport, Parfumerie, Automobile, Data, IA, Bases de données, Optimisation, Gestion de projet.
-- 📫 Me contacter : a.eish@outlook.fr
+### 👨‍💻 &nbsp;About Me
+
+- 🔭 **Currently:** Engineering cycle (Applied Mathematics for DATA/AI) at CY Tech.
+- 🌱 **Looking for:** A Data/AI apprenticeship for September 2026 (2 weeks/2 weeks rhythm).
+- 👨‍💻 **Recent projects:** C development (AVL Algorithms), Python data analysis, and Fullstack architecture.
+- 💬 **Interests:** Sports, Perfumery, Automotive, Data, AI, Databases, Optimization, Project Management.
+- 📫 **Contact me:** a.eish@outlook.fr
 
 ### 🛠 &nbsp;Languages and Technologies  
 
@@ -34,15 +44,8 @@
   <img src="https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github" alt="GitHub" />&nbsp;
 </p>
 
-### 📂 &nbsp;Projets Phares
+### 📂 &nbsp;Featured Projects
 
-* 💧 **[C-Wildwater](https://github.com/amdvii/P2-MEF2-ANT-.git)** : Conception d'un système de traitement et nettoyage de datasets volumineux (500 Mo). Implémentation de structures de données AVL pour l'optimisation algorithmique. Développement de scripts Shell pour le calcul automatisé d'indicateurs statistiques et génération de graphiques via GnuPlot.
-* 🗃️ **[Refuge ChenYI-Tech](https://github.com/anass1110/projet-info-2025.git)** : Application de gestion développée en C avec stockage structuré en fichiers CSV. Implémentation de fonctions de vérification, de nettoyage et de recherche multicritères pour assurer la fiabilité des données.
-* 🌐 **[Restaurant Flagrant Délice](https://github.com/rrkt08/MEF2-P2-ANT2.git)** : Architecture Fullstack avec développement Back-end (PHP/Java) pour la gestion des requêtes complexes. Structuration des pages (HTML/CSS) pour garantir une expérience utilisateur fluide.
-
-### 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-  <a href="mailto:a.eish@outlook.fr"><img src="https://img.shields.io/badge/-Mail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/ahmed-eish-3b1a2b1b0/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
+* 💧 **[C-Wildwater](https://github.com/amdvii/P2-MEF2-ANT-.git)**: Design of a processing and cleaning system for large datasets (500 MB). Implementation of AVL data structures for algorithmic optimization. Development of Shell scripts for automated calculation of statistical indicators and chart generation via GnuPlot.
+* 🗃️ **[Refuge ChenYI-Tech](https://github.com/anass1110/projet-info-2025.git)**: Management application developed in C with structured storage in CSV files. Implementation of verification, cleaning, and multi-criteria search functions to ensure data reliability.
+* 🌐 **[Restaurant Flagrant Délice](https://github.com/rrkt08/MEF2-P2-ANT2.git)**: Fullstack architecture with Back-end development (PHP/Java) to handle complex queries. Page structuring (HTML/CSS) to guarantee a smooth user experience.
