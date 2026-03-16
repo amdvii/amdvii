@@ -1,59 +1,61 @@
-<h1 align="center">👋 Salut ! Moi c'est Ahmed Eish</h1>
+<h1 align="center">👋 Hello World! This is Ahmed</h1>
 
 <p align="center"> 
-  <a href="https://www.linkedin.com/in/ahmed-eish-3b1a2b1b0/"> <img src="https://komarev.com/ghpvc/?username=AhmedEish&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Ahmed Eish" /> 
+  <a href="https://deltahmed.fr">
+    <img src="https://komarev.com/ghpvc/?username=deltahmed&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="deltahmed" /> 
   </a>
-  <a href="https://github.com/AhmedEish">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/AhmedEish?style=for-the-badge&logo=github">
+  <a href="https://www.youtube.com/channel/UCZeubjnoztTC_RP_c4YOuYw">
+    <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCPODTzHv0Njiyrja0HKK54g?style=for-the-badge&logo=youtube">
+  </a>
+  <a href="https://deltahmed.fr">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/deltahmed?style=for-the-badge&logo=github">
   </a>
 </p>
+
+<p align="center">
+  <a href="https://deltahmed.fr">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=550&lines=Apprenti+Data+Scientist+-+Data%2FIA;Etudiant+Ingenieur+@+CY+Tech;Passionne+par+la+Data+et+l'IA" alt="Typing SVG" />
+  </a>
+</p>
+
+- 🔭 **Actuellement** : En cycle Ingénieur (Mathématiques appliquées à la DATA) à CY Tech[cite: 27, 28].
+- 🌱 **En recherche** : D'un apprentissage en Data/IA pour la rentrée 2026 (Rythme 2s/2s)[cite: 20].
+- 👨‍💻 **Projets récents** : Développement C (Algorithmique AVL), analyse de données Python, et architecture Fullstack[cite: 34, 35, 38].
+- 💬 **Me demander à propos de** : Data Engineering, structuration de bases de données, optimisation, ou gestion de projet[cite: 6, 21].
+- 📫 **Me contacter** : aosh@outlook.fr [cite: 1]
+
+### 🛠 &nbsp;Languages and Technologies  
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=500&lines=Apprenti+Data+Scientist+;Étudiant+Ingénieur+@+CY+Tech;Passionné+par+l'IA+et+la+Data+Stratégie" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python" alt="Python" />&nbsp;
+  <img src="https://img.shields.io/badge/-C-05122A?style=for-the-badge&logo=C&logoColor=A8B9CC" alt="C" />&nbsp;
+  <img src="https://img.shields.io/badge/-Shell-05122A?style=for-the-badge&logo=gnubash&logoColor=FFFFFF" alt="Shell" />&nbsp;
+  <img src="https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=java&logoColor=FFFFFF" alt="Java" />&nbsp;
+  <img src="https://img.shields.io/badge/-PHP-05122A?style=for-the-badge&logo=PHP&logoColor=474A8A" alt="PHP" />&nbsp;
+  <br><br>
+  <img src="https://img.shields.io/badge/-SQL-05122A?style=for-the-badge&logo=mysql&logoColor=FFA518" alt="SQL" />&nbsp;
+  <img src="https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5" alt="HTML" />&nbsp;
+  <img src="https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6" alt="CSS" />&nbsp;
+  <img src="https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git" alt="Git" />&nbsp;
+  <img src="https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github" alt="GitHub" />&nbsp;
 </p>
 
-- [cite_start]🚀 **Objectif :** Recherche d'un apprentissage en **Data/IA** pour la rentrée 2026 (Rythme 2s/2s)[cite: 20].
-- [cite_start]🎓 **Formation :** Cycle Ingénieur à **CY Tech** en Mathématiques appliquées à la DATA[cite: 27, 28].
-- [cite_start]🌍 **Langues :** Trilingue (Français, Arabe, Anglais C1) + Allemand B1[cite: 14, 15, 17].
-- [cite_start]💡 **Le petit plus :** Vice-président de l'Association Eurêka, alliant leadership et expertise technique[cite: 40].
+### ⚙️ &nbsp;GitHub Analytics
 
----
+<p align="center">
+  <a href="https://github.com/deltahmed">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deltahmed&show_icons=true&locale=en&layout=compact&theme=nightowl&hide_border=true" alt="deltahmed" height="150px"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=deltahmed&show_icons=true&locale=en&theme=nightowl&hide_border=true" alt="deltahmed" height="150px" />
+  </a>
+</p>
 
-### 🛠 &nbsp;Langages et Technologies
+### ⚙️ &nbsp;Coding Analytics
 
-**Data Science & Engineering**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas) 
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Gnuplot](https://img.shields.io/badge/-Gnuplot-000000?style=for-the-badge)
+### 🤝🏻 &nbsp;Connect with Me
 
-**Développement Logiciel**
-![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=C&logoColor=white) 
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-**Outils & Qualité**
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-
----
-
-### 📂 &nbsp;Projets Phares
-
-* [cite_start]**C-Wildwater** : Système de traitement de données massives (500 Mo) avec optimisation par structures **AVL** et scripts Shell automatisés[cite: 34, 35, 36].
-* [cite_start]**Refuge_ChenYI-Tech** : Application de gestion en C avec stockage structuré CSV et algorithmes de nettoyage de données[cite: 31, 32, 33].
-* **Site Web Restaurant** : Développement Fullstack (PHP/Java/HTML/CSS) avec logique métier complexe[cite: 37, 38, 39].
-
----
-
-### ⚙️ &nbsp;Statistiques de Codage (Estimées)
-
-```rust
-Projets récents basés sur mon CV :
-
-C / Algorithmique (AVL)   >>>>>>>>>>>>>>---------- 60%
-Python (Analyse Data)     >>>>>>>>---------------- 40%
-Shell / Automatisation    >>>>>------------------- 20%
-Web (PHP/Java/HTML)       >>>>-------------------- 15%
+<p align="center">
+  <a href="https://deltahmed.fr"><img src="https://img.shields.io/badge/-Website-00A5E9?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+  <a href="mailto:aosh@outlook.fr"><img src="https://img.shields.io/badge/-Mail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ahmed-eish-3b1a2b1b0/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.youtube.com/channel/UCPODTzHv0Njiyrja0HKK54g"><img src="https://img.shields.io/badge/-Youtube-ff4242?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+</p>
