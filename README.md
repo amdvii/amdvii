@@ -2,13 +2,13 @@
 
 <p align="left">
   <a>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=550&lines=Future+Ingénieur+en+-+Data/%2FIA;Etudiant+Ingenieur+@+CY+Tech;Passionne+par+la+Data+et+l'IA" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=550&lines=Future+Ingénieur+en+-+Data/%2FIA;Etudiant+Ingenieur+@+CY+Tech;Passionné+par+la+Data+et+l'IA" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="left">
   <a href="https://deltahmed.fr">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=550&lines=Clique+pour+voir+-+mon/%2FCV;Etudiant+Ingenieur+@+CY+Tech;Passionne+par+la+Data+et+l'IA" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=550&lines=Clique+pour+voir+-+mon/%2FCV" alt="Typing SVG" />
   </a>
 </p>
 
