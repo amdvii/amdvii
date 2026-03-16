@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello World! This is Ahmed</h1>
 
-<p align="center"> 
+<p align="left"> 
   <a href="https://deltahmed.fr">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/deltahmed?style=for-the-badge&logo=github">
   </a>
