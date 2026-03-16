@@ -1,21 +1,21 @@
-<h1 align="center">👋 Hello World! This is Ahmed</h1>
+<h1 align="center">👋 Hello World! This is Ahmed👋 </h1>
 
-<p align="left"> 
-  <a href="https://deltahmed.fr">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/deltahmed?style=for-the-badge&logo=github">
+<p align="left">
+  <a>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=550&lines=Future+Ingénieur+en+-+Data/%2FIA;Etudiant+Ingenieur+@+CY+Tech;Passionne+par+la+Data+et+l'IA" alt="Typing SVG" />
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://deltahmed.fr">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=550&lines=Apprenti+Data+Scientist+-+Data%2FIA;Etudiant+Ingenieur+@+CY+Tech;Passionne+par+la+Data+et+l'IA" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=550&lines=Clique+pour+voir+-+mon/%2FCV;Etudiant+Ingenieur+@+CY+Tech;Passionne+par+la+Data+et+l'IA" alt="Typing SVG" />
   </a>
 </p>
 
-- 🔭 Actuellement : En cycle Ingénieur (Mathématiques appliquées à la DATA) à CY Tech.
+- 🔭 Actuellement : En cycle Ingénieur (Mathématiques appliquées à la DATA/IA) à CY Tech.
 - 🌱 En recherche : D'un apprentissage en Data/IA pour la rentrée 2026 (Rythme 2s/2s).
 - 👨‍💻 Projets récents : Développement C (Algorithmique AVL), analyse de données Python, et architecture Fullstack.
-- 💬 Centres d'intérêt : Sport, Voitures, Parfums, Data, IA, Bases de données, Optimisation, Gestion de projet.
+- 💬 Centres d'intérêt : Sport, Parfumerie, Automobile, Data, IA, Bases de données, Optimisation, Gestion de projet.
 - 📫 Me contacter : a.eish@outlook.fr
 
 ### 🛠 &nbsp;Languages and Technologies  
@@ -34,16 +34,7 @@
   <img src="https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github" alt="GitHub" />&nbsp;
 </p>
 
-### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-  <a href="https://github.com/deltahmed">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deltahmed&show_icons=true&locale=en&layout=compact&theme=nightowl&hide_border=true" alt="deltahmed" height="150px"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=deltahmed&show_icons=true&locale=en&theme=nightowl&hide_border=true" alt="deltahmed" height="150px" />
-  </a>
-</p>
-
-### ⚙️ &nbsp;Coding Analytics
 
 ### 🤝🏻 &nbsp;Connect with Me
 
