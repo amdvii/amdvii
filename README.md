@@ -36,9 +36,9 @@
 
 ### 📂 &nbsp;Projets Phares
 
-* 💧 **[C-Wildwater](https://github.com/TON_USERNAME/NOM_DU_REPO)** : Conception d'un système de traitement et nettoyage de datasets volumineux (500 Mo). Implémentation de structures de données AVL pour l'optimisation algorithmique. Développement de scripts Shell pour le calcul automatisé d'indicateurs statistiques et génération de graphiques via GnuPlot.
+* 💧 **[C-Wildwater](https://github.com/amdvii/P2-MEF2-ANT-.git)** : Conception d'un système de traitement et nettoyage de datasets volumineux (500 Mo). Implémentation de structures de données AVL pour l'optimisation algorithmique. Développement de scripts Shell pour le calcul automatisé d'indicateurs statistiques et génération de graphiques via GnuPlot.
 * 🗃️ **[Refuge ChenYI-Tech](https://github.com/anass1110/projet-info-2025.git)** : Application de gestion développée en C avec stockage structuré en fichiers CSV. Implémentation de fonctions de vérification, de nettoyage et de recherche multicritères pour assurer la fiabilité des données.
-* 🌐 **[Restaurant Flagrant Délice](https://github.com/TON_USERNAME/NOM_DU_REPO)** : Architecture Fullstack avec développement Back-end (PHP/Java) pour la gestion des requêtes complexes. Structuration des pages (HTML/CSS) pour garantir une expérience utilisateur fluide.
+* 🌐 **[Restaurant Flagrant Délice](https://github.com/rrkt08/MEF2-P2-ANT2.git)** : Architecture Fullstack avec développement Back-end (PHP/Java) pour la gestion des requêtes complexes. Structuration des pages (HTML/CSS) pour garantir une expérience utilisateur fluide.
 
 ### 🤝🏻 &nbsp;Connect with Me
 
