@@ -36,9 +36,9 @@
 
 ### 📂 &nbsp;Projets Phares
 
-* 💧 **[C-Wildwater](https://github.com/TON_USERNAME/NOM_DU_REPO)** : Conception d'un système de traitement et nettoyage de datasets volumineux (500 Mo)[cite: 35]. Implémentation de structures de données AVL pour l'optimisation algorithmique[cite: 35]. Développement de scripts Shell pour le calcul automatisé d'indicateurs statistiques et génération de graphiques via GnuPlot[cite: 36].
-* 🗃️ **[Refuge ChenYI-Tech](https://github.com/TON_USERNAME/NOM_DU_REPO)** : Application de gestion développée en C avec stockage structuré en fichiers CSV[cite: 31, 32]. Implémentation de fonctions de vérification, de nettoyage et de recherche multicritères pour assurer la fiabilité des données[cite: 33].
-* 🌐 **[Restaurant Flagrant Délice](https://github.com/TON_USERNAME/NOM_DU_REPO)** : Architecture Fullstack avec développement Back-end (PHP/Java) pour la gestion des requêtes complexes[cite: 38, 39]. Structuration des pages (HTML/CSS) pour garantir une expérience utilisateur fluide[cite: 39].
+* 💧 **[C-Wildwater](https://github.com/TON_USERNAME/NOM_DU_REPO)** : Conception d'un système de traitement et nettoyage de datasets volumineux (500 Mo). Implémentation de structures de données AVL pour l'optimisation algorithmique. Développement de scripts Shell pour le calcul automatisé d'indicateurs statistiques et génération de graphiques via GnuPlot.
+* 🗃️ **[Refuge ChenYI-Tech](https://github.com/TON_USERNAME/NOM_DU_REPO)** : Application de gestion développée en C avec stockage structuré en fichiers CSV. Implémentation de fonctions de vérification, de nettoyage et de recherche multicritères pour assurer la fiabilité des données.
+* 🌐 **[Restaurant Flagrant Délice](https://github.com/TON_USERNAME/NOM_DU_REPO)** : Architecture Fullstack avec développement Back-end (PHP/Java) pour la gestion des requêtes complexes. Structuration des pages (HTML/CSS) pour garantir une expérience utilisateur fluide.
 
 ### 🤝🏻 &nbsp;Connect with Me
 
