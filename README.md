@@ -2,12 +2,6 @@
 
 <p align="center"> 
   <a href="https://deltahmed.fr">
-    <img src="https://komarev.com/ghpvc/?username=deltahmed&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="deltahmed" /> 
-  </a>
-  <a href="https://www.youtube.com/channel/UCZeubjnoztTC_RP_c4YOuYw">
-    <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCPODTzHv0Njiyrja0HKK54g?style=for-the-badge&logo=youtube">
-  </a>
-  <a href="https://deltahmed.fr">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/deltahmed?style=for-the-badge&logo=github">
   </a>
 </p>
@@ -18,11 +12,11 @@
   </a>
 </p>
 
-- 🔭 **Actuellement** : En cycle Ingénieur (Mathématiques appliquées à la DATA) à CY Tech[cite: 27, 28].
-- 🌱 **En recherche** : D'un apprentissage en Data/IA pour la rentrée 2026 (Rythme 2s/2s)[cite: 20].
-- 👨‍💻 **Projets récents** : Développement C (Algorithmique AVL), analyse de données Python, et architecture Fullstack[cite: 34, 35, 38].
-- 💬 **Me demander à propos de** : Data Engineering, structuration de bases de données, optimisation, ou gestion de projet[cite: 6, 21].
-- 📫 **Me contacter** : aosh@outlook.fr [cite: 1]
+- 🔭 Actuellement : En cycle Ingénieur (Mathématiques appliquées à la DATA) à CY Tech.
+- 🌱 En recherche : D'un apprentissage en Data/IA pour la rentrée 2026 (Rythme 2s/2s).
+- 👨‍💻 Projets récents : Développement C (Algorithmique AVL), analyse de données Python, et architecture Fullstack.
+- 💬 Centres d'intérêt : Sport, Voitures, Parfums, Data, IA, Bases de données, Optimisation, Gestion de projet.
+- 📫 Me contacter : a.eish@outlook.fr
 
 ### 🛠 &nbsp;Languages and Technologies  
 
@@ -54,8 +48,6 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-  <a href="https://deltahmed.fr"><img src="https://img.shields.io/badge/-Website-00A5E9?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-  <a href="mailto:aosh@outlook.fr"><img src="https://img.shields.io/badge/-Mail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/ahmed-eish-3b1a2b1b0/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.youtube.com/channel/UCPODTzHv0Njiyrja0HKK54g"><img src="https://img.shields.io/badge/-Youtube-ff4242?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="mailto:a.eish@outlook.fr"><img src="https://img.shields.io/badge/-Mail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  <a href="[https://www.linkedin.com/in/ahmed-eish-3b1a2b1b0/](https://www.linkedin.com/in/ahmed-eish/)"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
