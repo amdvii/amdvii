@@ -17,7 +17,7 @@
 </p>
 
 <p align="left">
-  <a href="https://deltahmed.fr">
+  <a href="https://afi24.v6.focaliz.net/files/get/ff1fb7fba825062c4f063ad0d5da34a2.pdf">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=550&lines=CLICK+TO+SEE+MY+RESUME+!" alt="Typing SVG" />
   </a>
 </p>
