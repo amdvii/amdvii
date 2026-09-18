@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:8B0000,100:FF0000&height=220&section=header&text=Ahmed%20EISH&fontSize=70&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=Data%20%26%20AI%20Engineering%20Apprentice&descSize=20&descAlignY=56" width="100%" alt="Ahmed EISH banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:8B0000,100:FF0000&height=220&section=header&text=Ahmed%20EISH&fontSize=70&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=Data%20and%20AI%20Engineering%20Apprentice&descSize=20&descAlignY=56" width="100%" alt="Ahmed EISH banner"/>
 </p>
 
 <p align="center">
@@ -129,11 +129,6 @@ Fullstack web application: PHP/Java back-end handling complex queries and HTML/C
 <!-- ===================== STATS ===================== -->
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=FF0000&width=450&lines=GitHub+Stats" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=amdvii&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0000&icon_color=FF6B6B" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amdvii&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0000" alt="Top languages"/>
 </p>
 
 <p align="center">
