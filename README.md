@@ -10,7 +10,7 @@
 <p align="center">
   <a href="mailto:a.eish@outlook.fr"><img src="https://img.shields.io/badge/-Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/ahmed-eish/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://afi24.v6.focaliz.net/files/get/ff1fb7fba825062c4f063ad0d5da34a2.pdf"><img src="https://img.shields.io/badge/-Resume-FF0000?style=for-the-badge&logo=readdotcv&logoColor=white"/></a>
+  <a href="https://github.com/amdvii/amdvii/blob/main/CV_AHMED_EISH.pdf"><img src="https://img.shields.io/badge/-Resume-FF0000?style=for-the-badge&logo=readdotcv&logoColor=white"/></a>
   <a href="https://github.com/amdvii"><img alt="GitHub followers" src="https://img.shields.io/github/followers/amdvii?style=for-the-badge&logo=github&color=181717"></a>
   <img src="https://komarev.com/ghpvc/?username=amdvii&color=8B0000&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
@@ -22,7 +22,7 @@
 </p>
 
 <p align="left">
-  <a href="file:///Users/ahmedeish/Documents/Documents%20-%20Ahmed's%20MacBook%20Pro/admin/Alternance/CV/CV_AHMED_EISH.pdf">
+  <a href="https://github.com/amdvii/amdvii/blob/main/CV_AHMED_EISH.pdf">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF8C00&width=550&lines=📄+CLICK+TO+SEE+MY+RESUME+!" alt="Click to see my resume" />
   </a>
 </p>
