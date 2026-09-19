@@ -101,7 +101,7 @@ print(me.motto())
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=FF0000&width=450&lines=Featured+Projects" alt="Featured Projects" />
 </p>
 
-### 🤖 DataChat-FR
+### 🤖 [DataChat-FR](https://github.com/amdvii/DataChat-FR)
 Conversational AI agent answering natural-language questions **in French** about INSEE inter-municipal migration data (2018–2022), with automatically generated charts.
 <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/GPT--4o--mini-412991?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
